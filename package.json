@@ -1,0 +1,22 @@
+{
+  "name": "platzi_travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanGonzalezR/Tailwind_2y3.git"
+  },
+  "keywords": [
+    "Tailwind"
+  ],
+  "author": "IvanG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanGonzalezR/Tailwind_2y3/issues"
+  },
+  "homepage": "https://github.com/IvanGonzalezR/Tailwind_2y3#readme"
+}
